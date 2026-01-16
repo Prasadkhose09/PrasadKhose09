@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prasad Khose</h1>
-<h3 align="center">🎓 Final IT Engineering student from Pune 💻 Aspiring Software Engineer | Java Backend Developer | DSA Practitioner</h3>
+<h3 align="center">🎓 Final IT Engineering student from Pune | Java Backend Developer | DSA Practitioner</h3>
 
 - 🔭 I’m currently working on **Bank Management System**
 
