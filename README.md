@@ -1,62 +1,28 @@
-## Hi there 👋, I'm Prasad Khose
+<h1 align="center">Hi there 👋, I'm Prasad Khose</h1>
+<h3 align="center">🎓 Final IT Engineering student from Pune 💻 Aspiring Software Engineer | Java Backend Developer | DSA Practitioner</h3>
 
-🎓 Final IT Engineering student from Pune  
-💻 Aspiring Software Engineer | Java Backend Developer | DSA Practitioner  
+- 🔭 I’m currently working on **Bank Management System**
 
----
+- 🌱 I’m currently learning **Spring Boot, Hibernate, REST**
 
-### 🔭 I’m currently working on
-- **Java-based backend projects**, including a banking system  
-- RESTful API development using **Spring Boot (learning & implementation)**  
-- Improving **problem-solving skills** through Data Structures & Algorithms  
+- 👯 I’m looking to collaborate on **Java Backend Applications**
 
----
+- 🤝 I’m looking for help with **Software engineering projects with real-world use cases**
 
-### 🌱 I’m currently learning
-- **Advanced Java** (Collections, Multithreading, JVM concepts)  
-- **Backend development** with Spring Boot and REST APIs  
-- **Database design**, SQL optimization, and backend architecture  
-- Basics of **system design** and scalable application development  
+- 👨‍💻 All of my projects are available at [https://github.com/Prasadkhose09](https://github.com/Prasadkhose09)
 
----
+- 💬 Ask me about **Java, OOPs, and backend fundamentals Data Structures & Algorithms SQL, database schema design Git, GitHub, and clean code practices**
 
-### 👯 I’m looking to collaborate on
-- Java backend or full-stack projects  
-- Open-source projects focused on backend systems and APIs  
-- Software engineering projects with real-world use cases  
+- 📫 How to reach me **prasadkhose512@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view?usp=drive_link](https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view?usp=drive_link)
 
-### 🤔 I’m looking for help with
-- Designing scalable backend systems  
-- Best practices in Java backend architecture  
-- Placement-oriented backend project ideas  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prasad khose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad khose" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prasadkhose09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasadkhose09" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prasadkhose09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasadkhose09" height="30" width="40" /></a>
+</p>
 
----
-
-### 💬 Ask me about
-- Java, OOPs, and backend fundamentals  
-- Data Structures & Algorithms  
-- SQL, database schema design  
-- Git, GitHub, and clean code practices  
-
----
-
-### 📫 How to reach me
-- 📧 Email: *prasadkhose512@gmail.com*  
-- 💼 LinkedIn: *https://www.linkedin.com/in/prasad-khose-686b81258/*  
-- 🧑‍💻 GitHub: *https://github.com/PrasadKhose09*  
-
----
-
-### 😄 Pronouns
-He / Him  
-
----
-
-### ⚡ Fun fact
-I enjoy building backend systems that are reliable, scalable, and easy to maintain—and I solve DSA problems daily to sharpen my thinking.
-
----
-
-⭐ *Feel free to explore my repositories and connect with me!*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
