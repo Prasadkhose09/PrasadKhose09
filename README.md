@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bank Management System**
 
-- 🌱 I’m currently learning **Spring Boot, Hibernate, REST**
+- 🌱 I’m currently learning **Spring Boot, Hibernate, REST, Authentications**
 
 - 👯 I’m looking to collaborate on **Java Backend Applications**
 
