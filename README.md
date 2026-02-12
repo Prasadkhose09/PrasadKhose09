@@ -35,7 +35,7 @@
 
 ### 🏗 Featured Projects
 
-#### 🏛 CivicScore (Develloped India 2047 Mission)
+#### 🏛 CivicScore (Developed India 2047 Mission)  
 - Built Spring Boot REST APIs for citizen management & violation handling  
 - Implemented rule-based civic score engine with full score history tracking  
 - Designed MySQL schema using JPA with proper entity relationships  
