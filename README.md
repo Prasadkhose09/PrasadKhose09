@@ -1,5 +1,5 @@
 <h1 align="center">Prasad Khose</h1>
-<h3 align="center">Java Backend Developer | Final Year IT Engineering Student | DSA Enthusiast</h3>
+<h3 align="center">Java Backend Developer | Final Year IT Engineering Student | Problem Solver</h3>
 
 <p align="center">
   Building scalable backend systems with clean architecture and real-world impact.
@@ -23,7 +23,7 @@
 
 ---
 
-### 📚 Currently Learning
+### 📚 Currently Learning and working on
 
 - Spring Boot Advanced Concepts  
 - Spring Security & JWT Authentication  
@@ -35,7 +35,7 @@
 
 ### 🏗 Featured Projects
 
-#### 🏛 CivicScore (Better India)
+#### 🏛 CivicScore (Develloped India 2047 Mission)
 - Built Spring Boot REST APIs for citizen management & violation handling  
 - Implemented rule-based civic score engine with full score history tracking  
 - Designed MySQL schema using JPA with proper entity relationships  
@@ -70,7 +70,7 @@
 
 ### 🤝 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/prasad-khose
+- LinkedIn: www.linkedin.com/in/prasad-khose-686b81258
 - LeetCode: https://leetcode.com/prasadkhose09
 - HackerRank: https://www.hackerrank.com/prasadkhose09
 
