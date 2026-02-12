@@ -1,28 +1,81 @@
-<h1 align="center">Hi there 👋, I'm Prasad Khose</h1>
-<h3 align="center">🎓 Final year IT Engineering student from Pune | Java Backend Developer | DSA Practitioner</h3>
+<h1 align="center">Prasad Khose</h1>
+<h3 align="center">Java Backend Developer | Final Year IT Engineering Student | DSA Enthusiast</h3>
 
-- 🔭 I’m currently working on **Bank Management System**
-
-- 🌱 I’m currently learning **Spring Boot, Hibernate, REST, Authentications**
-
-- 👯 I’m looking to collaborate on **Java Backend Applications**
-
-- 🤝 I’m looking for help with **Software engineering projects with real-world use cases**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Prasadkhose09](https://github.com/Prasadkhose09)
-
-- 💬 Ask me about **Java, OOPs, and backend fundamentals Data Structures & Algorithms SQL, database schema design Git, GitHub, and clean code practices**
-
-- 📫 How to reach me **prasadkhose512@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view?usp=drive_link](https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prasad khose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasad khose" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prasadkhose09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prasadkhose09" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prasadkhose09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prasadkhose09" height="30" width="40" /></a>
+<p align="center">
+  Building scalable backend systems with clean architecture and real-world impact.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <imgsrc="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+- 🎓 Final Year IT Engineering Student (Pune)
+- 💻 Backend-focused developer specializing in **Java & Spring Ecosystem**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🔍 Interested in building scalable, production-ready backend systems
+
+---
+
+### 🛠 Currently Working On
+
+- 🏦 **Bank Management System** – Core banking operations with secure REST APIs
+- 🏛 **CivicScore (Better India Project)** – Civic responsibility tracking platform with rule-based score calculation & audit history
+
+---
+
+### 📚 Currently Learning
+
+- Spring Boot Advanced Concepts  
+- Spring Security & JWT Authentication  
+- Hibernate & JPA Optimization  
+- REST API Design Best Practices  
+- System Design Fundamentals  
+
+---
+
+### 🏗 Featured Projects
+
+#### 🏛 CivicScore (Better India)
+- Built Spring Boot REST APIs for citizen management & violation handling  
+- Implemented rule-based civic score engine with full score history tracking  
+- Designed MySQL schema using JPA with proper entity relationships  
+- Integrated React frontend with backend APIs  
+
+#### 🏦 Bank Management System
+- Developed secure banking operations (account creation, transactions, validations)
+- Applied layered architecture (Controller–Service–Repository)
+- Implemented exception handling and input validation
+
+---
+
+### 💡 Technical Skills
+
+**Languages:** Java, SQL, C++  
+**Backend:** Spring Boot, Hibernate, REST APIs  
+**Frontend:** React.js (Basic Integration)  
+**Database:** MySQL  
+**Tools:** Git, GitHub  
+**Core CS:** OOPs, DSA, DBMS, Operating Systems Fundamentals  
+
+---
+
+### 🌐 Portfolio & Profiles
+
+- 🔗 Portfolio: https://prasad-khose-portfolio.vercel.app/
+- 💻 GitHub: https://github.com/Prasadkhose09
+- 📄 Resume: https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view
+- 📧 Email: prasadkhose512@gmail.com
+
+---
+
+### 🤝 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/prasad-khose
+- LeetCode: https://leetcode.com/prasadkhose09
+- HackerRank: https://www.hackerrank.com/prasadkhose09
+
+---
+
+<p align="center">
+  Focused on writing clean code, designing robust APIs, and solving real-world engineering problems.
+</p>
