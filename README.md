@@ -80,5 +80,3 @@
   Focused on writing clean code, designing robust APIs, and solving real-world engineering problems.
 </p>
 
-
-in featured project add my signbridge application 
