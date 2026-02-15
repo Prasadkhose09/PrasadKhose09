@@ -5,6 +5,13 @@
   Building scalable backend systems with clean architecture and real-world impact.
 </p>
 
+<p align="center">
+  <a href="https://prasad-khose-portfolio.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://github.com/Prasadkhose09">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/prasad-khose-686b81258">🔗 LinkedIn</a> •
+  <a href="mailto:prasadkhose512@gmail.com">📧 Email</a>
+</p>
+
 ---
 
 ### 🚀 About Me
