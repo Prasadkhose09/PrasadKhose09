@@ -1,89 +1,132 @@
 <h1 align="center">Prasad Khose</h1>
-<h3 align="center">Java Backend Developer | Final Year IT Engineering Student | Problem Solver</h3>
+<h3 align="center">Java Backend Developer • Final Year IT Engineering Student • Problem Solver</h3>
 
 <p align="center">
-  Building scalable backend systems with clean architecture and real-world impact.
+Building scalable backend systems, designing robust APIs, and solving real-world engineering problems.
 </p>
 
 <p align="center">
-  <a href="https://prasad-khose-portfolio.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://github.com/Prasadkhose09">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/prasad-khose-686b81258">🔗 LinkedIn</a> •
-  <a href="mailto:prasadkhose512@gmail.com">📧 Email</a>
+<a href="https://prasad-khose-portfolio.vercel.app/">🌐 Portfolio</a> •
+<a href="https://github.com/Prasadkhose09">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/prasad-khose-686b81258">🔗 LinkedIn</a> •
+<a href="mailto:prasadkhose512@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Final Year IT Engineering Student (Pune)
-- 💻 Backend-focused developer specializing in **Java & Spring Ecosystem**
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🔍 Interested in building scalable, production-ready backend systems
+🎓 Final Year **Information Technology Engineering Student – Pune, India**
 
----
+💻 **Backend-focused developer** specializing in the **Java & Spring ecosystem**
 
-### 🛠 Currently Working On
+🧠 Strong foundation in **Data Structures, Algorithms, and Core Computer Science**
 
-- 🏦 **Bank Management System** – Core banking operations with secure REST APIs
-- 🏛 **CivicScore (Better India Project)** – Civic responsibility tracking platform with rule-based score calculation & audit history
+⚙️ Interested in building **scalable, production-ready backend systems**
+
+📈 Consistent problem solver with **50+ days of continuous LeetCode practice**
 
 ---
 
-### 📚 Currently Learning and working on
+# 🛠 Current Work
 
-- Spring Boot Advanced Concepts  
-- Spring Security & JWT Authentication  
-- Hibernate & JPA Optimization  
-- REST API Design Best Practices  
-- System Design Fundamentals  
+### 🏦 Bank Management System
 
----
+A backend banking system implementing core financial operations.
 
-### 🏗 Featured Projects
+**Key Highlights**
 
-#### 🏛 CivicScore (Developed India 2047 Mission)  
-- Built Spring Boot REST APIs for citizen management & violation handling  
-- Implemented rule-based civic score engine with full score history tracking  
-- Designed MySQL schema using JPA with proper entity relationships  
-- Integrated React frontend with backend APIs  
-
-#### 🏦 Bank Management System
-- Developed secure banking operations (account creation, transactions, validations)
-- Applied layered architecture (Controller–Service–Repository)
-- Implemented exception handling and input validation
+* Secure account creation and transaction APIs
+* Input validation and centralized exception handling
+* Layered architecture (Controller → Service → Repository)
+* Built using **Spring Boot, Hibernate, MySQL**
 
 ---
 
-### 💡 Technical Skills
+### 🏛 CivicScore – Developed India 2047 Initiative
 
-**Languages:** Java, SQL, C++  
-**Backend:** Spring Boot, Hibernate, REST APIs  
-**Frontend:** React.js (Basic Integration)  
-**Database:** MySQL  
-**Tools:** Git, GitHub  
-**Core CS:** OOPs, DSA, DBMS, Operating Systems Fundamentals  
+A civic responsibility tracking platform that evaluates citizen behavior through a dynamic scoring system.
 
----
+**Key Highlights**
 
-### 🌐 Portfolio & Profiles
-
-- 🔗 Portfolio: https://prasad-khose-portfolio.vercel.app/
-- 💻 GitHub: https://github.com/Prasadkhose09
-- 📄 Resume: https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view
-- 📧 Email: prasadkhose512@gmail.com
+* Built REST APIs for **citizen management and violation tracking**
+* Designed a **rule-based civic score engine**
+* Maintained **complete score audit history**
+* Implemented relational database schema using **JPA & MySQL**
+* Integrated with **React frontend**
 
 ---
 
-### 🤝 Let's Connect
+# 📚 Currently Learning
 
-- LinkedIn: www.linkedin.com/in/prasad-khose-686b81258
-- LeetCode: https://leetcode.com/prasadkhose09
-- HackerRank: https://www.hackerrank.com/prasadkhose09
+* Advanced **Spring Boot Architecture**
+* **Spring Security + JWT Authentication**
+* **Hibernate & JPA Optimization**
+* **REST API Design Best Practices**
+* **Backend System Design Fundamentals**
+
+---
+
+# 💻 Technical Skills
+
+### Languages
+
+Java • SQL • C++
+
+### Backend Development
+
+Spring Boot • Hibernate • REST APIs • MVC Architecture
+
+### Database
+
+MySQL • JPA • Relational Schema Design
+
+### Frontend (Integration Level)
+
+React.js
+
+### Tools
+
+Git • GitHub • Postman • IntelliJ IDEA
+
+### Core Computer Science
+
+Data Structures & Algorithms
+Object-Oriented Programming
+Database Management Systems
+Operating Systems Fundamentals
+
+---
+
+# 📂 Portfolio & Profiles
+
+🌐 Portfolio
+https://prasad-khose-portfolio.vercel.app/
+
+💻 GitHub
+https://github.com/Prasadkhose09
+
+📄 Resume
+https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view
+
+📧 Email
+[prasadkhose512@gmail.com](mailto:prasadkhose512@gmail.com)
+
+---
+
+# 🤝 Connect With Me
+
+🔗 LinkedIn
+https://www.linkedin.com/in/prasad-khose-686b81258
+
+💻 LeetCode
+https://leetcode.com/prasadkhose09
+
+🏆 HackerRank
+https://www.hackerrank.com/prasadkhose09
 
 ---
 
 <p align="center">
-  Focused on writing clean code, designing robust APIs, and solving real-world engineering problems.
+Passionate about backend engineering, scalable system design, and solving challenging problems through clean, maintainable code.
 </p>
-
