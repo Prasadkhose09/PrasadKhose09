@@ -75,7 +75,7 @@ Java • SQL • C++
 
 ### Backend Development
 
-Spring Boot • Hibernate • REST APIs • MVC Architecture
+Spring Boot • Hibernate • REST APIs • MVC Architecture • Docker • Kubernetes
 
 ### Database
 
