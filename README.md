@@ -1,151 +1,176 @@
 <div align="center">
 
-# Prasad Khose
-
-**Java Backend Developer · Final Year IT Engineering Student · Pune, India**
-
-Building scalable REST APIs, production-ready backend systems, and solving real-world engineering problems through clean, layered architecture.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-prasad-khose.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-khose-686b81258)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prasadkhose09)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadkhose512@gmail.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=160&section=header&text=Prasad%20Khose&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%E2%80%A2%20Pune%2C%20India&descSize=16&descAlignY=60&descColor=93c5fd" />
 
 </div>
-
----
-
-## About Me
-
-I'm a final-year Information Technology Engineering student at Pune with a strong focus on backend systems using the Java & Spring ecosystem. I enjoy designing layered architectures, building secure REST APIs, and thinking carefully about how systems scale.
-
-- 🔧 Specialized in **Spring Boot · Hibernate · MySQL · REST API Design**
-- 📐 Strong grasp of **layered MVC architecture** and **relational schema design**
-- 📊 **50+ day LeetCode streak** — consistent daily problem solving in Java
-- 🚀 Open to **backend internship and full-time opportunities** starting 2025
-- 🤝 Comfortable integrating backend services with **React frontends**
-
----
-
-## GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasadkhose09&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=0A66C2&icon_color=0A66C2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkhose09&layout=compact&hide_border=true&theme=default&title_color=0A66C2)
+```
+╔══════════════════════════════════════════════════════════════╗
+║  Building scalable APIs · Designing clean architecture       ║
+║  Solving real-world engineering problems with Java & Spring  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prasadkhose09&hide_border=true&theme=default&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2)
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-0f172a?style=for-the-badge&logoColor=white)](https://portfolio-prasad-khose.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-1d4ed8?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/prasad-khose-686b81258)
+[![LeetCode](https://img.shields.io/badge/◈_LeetCode-b45309?style=for-the-badge&logoColor=white)](https://leetcode.com/prasadkhose09)
+[![HackerRank](https://img.shields.io/badge/◈_HackerRank-166534?style=for-the-badge&logoColor=white)](https://www.hackerrank.com/prasadkhose09)
+[![Email](https://img.shields.io/badge/◈_Email-991b1b?style=for-the-badge&logoColor=white)](mailto:prasadkhose512@gmail.com)
 
 </div>
 
 ---
 
-## Projects
+## `whoami`
+
+```java
+public class PrasadKhose extends BackendDeveloper {
+
+    private final String role     = "Final Year IT Engineering Student";
+    private final String location = "Pune, India";
+    private final String focus    = "Java · Spring Boot · REST APIs · System Design";
+    private final String streak   = "50+ consecutive days on LeetCode";
+    private final String goal     = "Backend Engineer @ a product-first company";
+
+    @Override
+    public String[] coreValues() {
+        return new String[]{ "Clean architecture", "Layered design", "Readable code" };
+    }
+}
+```
+
+---
+
+## ⚡ Tech stack
+
+<div align="center">
+
+| Layer | Technologies |
+|:---:|:---|
+| **Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) *(integration level)* |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+</div>
+
+---
+
+## 🏗️ Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏦 Bank Management System
-> Secure backend banking system implementing core financial operations with full input validation and exception handling.
 
-**Tech stack:** Spring Boot · Hibernate · MySQL · REST APIs · Spring MVC
+> Secure banking backend with full transaction lifecycle
 
-| Highlight | Detail |
-|-----------|--------|
-| Architecture | 3-layer MVC: Controller → Service → Repository |
-| API coverage | Account creation, deposit, withdrawal, transfer, balance enquiry |
-| Validation | Bean validation + centralized `@ControllerAdvice` exception handling |
-| Data layer | JPA/Hibernate with optimized entity relationships |
+**Stack:** `Spring Boot` `Hibernate` `MySQL` `JPA`
 
-**Key design decisions:**
-- Centralized exception handling ensures consistent error responses across all endpoints
-- Transaction boundaries enforced at the service layer to maintain data integrity
-- Input sanitization at controller level before any business logic executes
+```
+Controller ──► Service ──► Repository
+    │              │             │
+ Validation   Transactions    MySQL
+ @Valid       @Transactional  Entity ORM
+```
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
+**Highlights**
+- Account creation, deposit, withdrawal, transfer & balance APIs
+- Centralized `@ControllerAdvice` exception handling
+- Bean validation at controller level before any business logic
+- Transaction boundaries enforced at service layer
 
----
+[![Code](https://img.shields.io/badge/View_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
 
-### 🏛 CivicScore — Developed India 2047 Initiative
-> Civic responsibility tracking platform that evaluates citizen behavior through a dynamic, rule-based scoring engine.
+</td>
+<td width="50%" valign="top">
 
-**Tech stack:** Spring Boot · JPA · MySQL · REST APIs · React (frontend integration)
+### 🏛️ CivicScore — Developed India 2047
 
-| Highlight | Detail |
-|-----------|--------|
-| API coverage | 8+ REST endpoints for citizen management & violation tracking |
-| Score engine | Rule-based system that evaluates behavior across configurable categories |
-| Audit trail | Complete score history — every change is persisted and queryable |
-| Schema design | Normalized relational schema with 5+ linked entity tables |
-| Integration | REST backend consumed by React frontend via JSON responses |
+> Civic responsibility tracker with dynamic rule-based scoring
 
-**Key design decisions:**
-- Audit history stored as immutable records — score changes are never overwritten, only appended
-- Rule engine decoupled from citizen data to allow configurable civic scoring criteria
-- Relational schema designed to support future analytics on violation trends
+**Stack:** `Spring Boot` `JPA` `MySQL` `React`
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
+```
+React UI ──► REST APIs ──► Score Engine
+               │                │
+          8+ Endpoints     Rule Evaluator
+          CRUD + Query     Audit Logger
+```
 
----
+**Highlights**
+- 8+ REST endpoints for citizen management & violations
+- Rule-based score engine decoupled from citizen data
+- Immutable audit trail — every score change persisted
+- 5+ relational tables with normalized schema design
 
-## Technical Skills
+[![Code](https://img.shields.io/badge/View_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
 
-### Proficient
-| Area | Technologies |
-|------|-------------|
-| Language | Java |
-| Backend | Spring Boot · Spring MVC · Hibernate · REST APIs |
-| Database | MySQL · JPA · Relational Schema Design |
-| Concepts | OOP · Data Structures & Algorithms · DBMS · OS Fundamentals |
-| Tools | Git · GitHub · Postman · IntelliJ IDEA |
-
-### Familiar
-| Area | Technologies |
-|------|-------------|
-| Language | SQL · C++ |
-| Frontend | React.js (integration-level) |
-| DevOps | Docker · Kubernetes (learning) |
+</td>
+</tr>
+</table>
 
 ---
 
-## Competitive Programming
+## 📊 GitHub stats
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-prasadkhose09-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prasadkhose09)
-[![HackerRank](https://img.shields.io/badge/HackerRank-prasadkhose09-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prasadkhose09)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Prasadkhose09&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&bg_color=0f172a" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkhose09&layout=compact&hide_border=true&theme=tokyonight&title_color=60a5fa&text_color=e2e8f0&bg_color=0f172a" />
 
-</div>
-
-- **50+ consecutive days** of active LeetCode practice — primarily in Java
-- Focus areas: Arrays, Strings, Linked Lists, Trees, HashMap problems
-- Consistent problem-solving habit built alongside academic and project work
-
----
-
-## What I'm Building Next
-
-| Goal | Status |
-|------|--------|
-| Spring Security + JWT Authentication | In progress — integrating into Bank Management System |
-| Hibernate query optimization & N+1 problem patterns | Studying |
-| REST API design patterns & versioning strategies | Researching |
-| Backend system design fundamentals (caching, queues, scaling) | Roadmap |
-
----
-
-## Resume & Contact
-
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-prasad-khose.vercel.app/)
-[![Email](https://img.shields.io/badge/prasadkhose512@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadkhose512@gmail.com)
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasadkhose09&hide_border=true&theme=tokyonight&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&background=0f172a&stroke=1e40af&sideLabels=e2e8f0&dates=94a3b8" />
 
 </div>
 
 ---
 
+## 🧠 Problem solving
+
+- **50+ consecutive days** of active LeetCode problem solving — primarily in Java
+- Focus areas: Arrays · Linked Lists · Trees · HashMaps · Sliding Window
+- Consistent habit built alongside project work and academic coursework
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-prasadkhose09-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/prasadkhose09)
+[![HackerRank](https://img.shields.io/badge/HackerRank-prasadkhose09-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prasadkhose09)
+
+---
+
+## 🗺️ What's next
+
+```
+2025 ─────────────────────────────────────────────────────────► 2026
+
+[✓] Spring Boot + Hibernate          [⟳] Spring Security + JWT auth
+[✓] REST API Design Patterns         [⟳] Hibernate query optimization
+[✓] Layered MVC Architecture         [ ] Redis caching + async queues
+[✓] JPA & Relational Schema Design   [ ] System Design fundamentals
+                                     [ ] Microservices with Spring Cloud
+```
+
+---
+
+## 🤝 Let's connect
+
 <div align="center">
 
-*Passionate about backend engineering, clean architecture, and building systems that are correct before they are fast.*
+| Platform | Link |
+|:---:|:---|
+| 💼 LinkedIn | [prasad-khose-686b81258](https://www.linkedin.com/in/prasad-khose-686b81258) |
+| 🌐 Portfolio | [portfolio-prasad-khose.vercel.app](https://portfolio-prasad-khose.vercel.app/) |
+| 📄 Resume | [View on Google Drive](https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view) |
+| 📧 Email | [prasadkhose512@gmail.com](mailto:prasadkhose512@gmail.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=100&section=footer&text=Open%20to%20backend%20internship%20%26%20full-time%20roles&fontSize=14&fontColor=93c5fd&fontAlignY=65" />
 
 </div>
