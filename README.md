@@ -1,132 +1,151 @@
-<h1 align="center">Prasad Khose</h1>
-<h3 align="center">Java Backend Developer • Final Year IT Engineering Student • Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-Building scalable backend systems, designing robust APIs, and solving real-world engineering problems.
-</p>
+# Prasad Khose
 
-<p align="center">
-<a href="https://portfolio-prasad-khose.vercel.app/">🌐 Portfolio</a> •
-<a href="https://github.com/Prasadkhose09">💻 GitHub</a> •
-<a href="https://www.linkedin.com/in/prasad-khose-686b81258">🔗 LinkedIn</a> •
-<a href="mailto:prasadkhose512@gmail.com">📧 Email</a>
-</p>
+**Java Backend Developer · Final Year IT Engineering Student · Pune, India**
 
----
+Building scalable REST APIs, production-ready backend systems, and solving real-world engineering problems through clean, layered architecture.
 
-# 🚀 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-prasad-khose.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-khose-686b81258)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prasadkhose09)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadkhose512@gmail.com)
 
-🎓 Final Year **Information Technology Engineering Student – Pune, India**
-
-💻 **Backend-focused developer** specializing in the **Java & Spring ecosystem**
-
-🧠 Strong foundation in **Data Structures, Algorithms, and Core Computer Science**
-
-⚙️ Interested in building **scalable, production-ready backend systems**
-
-📈 Consistent problem solver with **50+ days of continuous LeetCode practice**
+</div>
 
 ---
 
-# 🛠 Current Work
+## About Me
+
+I'm a final-year Information Technology Engineering student at Pune with a strong focus on backend systems using the Java & Spring ecosystem. I enjoy designing layered architectures, building secure REST APIs, and thinking carefully about how systems scale.
+
+- 🔧 Specialized in **Spring Boot · Hibernate · MySQL · REST API Design**
+- 📐 Strong grasp of **layered MVC architecture** and **relational schema design**
+- 📊 **50+ day LeetCode streak** — consistent daily problem solving in Java
+- 🚀 Open to **backend internship and full-time opportunities** starting 2025
+- 🤝 Comfortable integrating backend services with **React frontends**
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasadkhose09&show_icons=true&hide_border=true&count_private=true&theme=default&title_color=0A66C2&icon_color=0A66C2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkhose09&layout=compact&hide_border=true&theme=default&title_color=0A66C2)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prasadkhose09&hide_border=true&theme=default&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2)
+
+</div>
+
+---
+
+## Projects
 
 ### 🏦 Bank Management System
+> Secure backend banking system implementing core financial operations with full input validation and exception handling.
 
-A backend banking system implementing core financial operations.
+**Tech stack:** Spring Boot · Hibernate · MySQL · REST APIs · Spring MVC
 
-**Key Highlights**
+| Highlight | Detail |
+|-----------|--------|
+| Architecture | 3-layer MVC: Controller → Service → Repository |
+| API coverage | Account creation, deposit, withdrawal, transfer, balance enquiry |
+| Validation | Bean validation + centralized `@ControllerAdvice` exception handling |
+| Data layer | JPA/Hibernate with optimized entity relationships |
 
-* Secure account creation and transaction APIs
-* Input validation and centralized exception handling
-* Layered architecture (Controller → Service → Repository)
-* Built using **Spring Boot, Hibernate, MySQL**
+**Key design decisions:**
+- Centralized exception handling ensures consistent error responses across all endpoints
+- Transaction boundaries enforced at the service layer to maintain data integrity
+- Input sanitization at controller level before any business logic executes
 
----
-
-### 🏛 CivicScore – Developed India 2047 Initiative
-
-A civic responsibility tracking platform that evaluates citizen behavior through a dynamic scoring system.
-
-**Key Highlights**
-
-* Built REST APIs for **citizen management and violation tracking**
-* Designed a **rule-based civic score engine**
-* Maintained **complete score audit history**
-* Implemented relational database schema using **JPA & MySQL**
-* Integrated with **React frontend**
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
 
 ---
 
-# 📚 Currently Learning
+### 🏛 CivicScore — Developed India 2047 Initiative
+> Civic responsibility tracking platform that evaluates citizen behavior through a dynamic, rule-based scoring engine.
 
-* Advanced **Spring Boot Architecture**
-* **Spring Security + JWT Authentication**
-* **Hibernate & JPA Optimization**
-* **REST API Design Best Practices**
-* **Backend System Design Fundamentals**
+**Tech stack:** Spring Boot · JPA · MySQL · REST APIs · React (frontend integration)
 
----
+| Highlight | Detail |
+|-----------|--------|
+| API coverage | 8+ REST endpoints for citizen management & violation tracking |
+| Score engine | Rule-based system that evaluates behavior across configurable categories |
+| Audit trail | Complete score history — every change is persisted and queryable |
+| Schema design | Normalized relational schema with 5+ linked entity tables |
+| Integration | REST backend consumed by React frontend via JSON responses |
 
-# 💻 Technical Skills
+**Key design decisions:**
+- Audit history stored as immutable records — score changes are never overwritten, only appended
+- Rule engine decoupled from citizen data to allow configurable civic scoring criteria
+- Relational schema designed to support future analytics on violation trends
 
-### Languages
-
-Java • SQL • C++
-
-### Backend Development
-
-Spring Boot • Hibernate • REST APIs • MVC Architecture • Docker • Kubernetes
-
-### Database
-
-MySQL • JPA • Relational Schema Design
-
-### Frontend (Integration Level)
-
-React.js
-
-### Tools
-
-Git • GitHub • Postman • IntelliJ IDEA
-
-### Core Computer Science
-
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Operating Systems Fundamentals
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
 
 ---
 
-# 📂 Portfolio & Profiles
+## Technical Skills
 
-🌐 Portfolio
-https://prasad-khose-portfolio.vercel.app/
+### Proficient
+| Area | Technologies |
+|------|-------------|
+| Language | Java |
+| Backend | Spring Boot · Spring MVC · Hibernate · REST APIs |
+| Database | MySQL · JPA · Relational Schema Design |
+| Concepts | OOP · Data Structures & Algorithms · DBMS · OS Fundamentals |
+| Tools | Git · GitHub · Postman · IntelliJ IDEA |
 
-💻 GitHub
-https://github.com/Prasadkhose09
-
-📄 Resume
-https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view
-
-📧 Email
-[prasadkhose512@gmail.com](mailto:prasadkhose512@gmail.com)
-
----
-
-# 🤝 Connect With Me
-
-🔗 LinkedIn
-https://www.linkedin.com/in/prasad-khose-686b81258
-
-💻 LeetCode
-https://leetcode.com/prasadkhose09
-
-🏆 HackerRank
-https://www.hackerrank.com/prasadkhose09
+### Familiar
+| Area | Technologies |
+|------|-------------|
+| Language | SQL · C++ |
+| Frontend | React.js (integration-level) |
+| DevOps | Docker · Kubernetes (learning) |
 
 ---
 
-<p align="center">
-Passionate about backend engineering, scalable system design, and solving challenging problems through clean, maintainable code.
-</p>
+## Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-prasadkhose09-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/prasadkhose09)
+[![HackerRank](https://img.shields.io/badge/HackerRank-prasadkhose09-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prasadkhose09)
+
+</div>
+
+- **50+ consecutive days** of active LeetCode practice — primarily in Java
+- Focus areas: Arrays, Strings, Linked Lists, Trees, HashMap problems
+- Consistent problem-solving habit built alongside academic and project work
+
+---
+
+## What I'm Building Next
+
+| Goal | Status |
+|------|--------|
+| Spring Security + JWT Authentication | In progress — integrating into Bank Management System |
+| Hibernate query optimization & N+1 problem patterns | Studying |
+| REST API design patterns & versioning strategies | Researching |
+| Backend system design fundamentals (caching, queues, scaling) | Roadmap |
+
+---
+
+## Resume & Contact
+
+<div align="center">
+
+[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-prasad-khose.vercel.app/)
+[![Email](https://img.shields.io/badge/prasadkhose512@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadkhose512@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*Passionate about backend engineering, clean architecture, and building systems that are correct before they are fast.*
+
+</div>
