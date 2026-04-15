@@ -162,7 +162,7 @@ React UI ──► REST APIs ──► Score Engine
 |:---:|:---|
 | 💼 LinkedIn | [prasad-khose-686b81258](https://www.linkedin.com/in/prasad-khose-686b81258) |
 | 🌐 Portfolio | [portfolio-prasad-khose.vercel.app](https://portfolio-prasad-khose.vercel.app/) |
-| 📄 Resume | [View on Google Drive](https://drive.google.com/file/d/1yKhU6Htvq_6G_zHmaLsIlQRCAKXJTnx4/view) |
+| 📄 Resume | [View on Google Drive](https://drive.google.com/file/d/1wnA_k_Gyw1lNUssTraxrNnjgCNWcYA_a/view) |
 | 📧 Email | [prasadkhose512@gmail.com](mailto:prasadkhose512@gmail.com) |
 
 </div>
