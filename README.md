@@ -116,18 +116,6 @@ React UI ──► REST APIs ──► Score Engine
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Prasadkhose09&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&title_color=60a5fa&icon_color=60a5fa&text_color=e2e8f0&bg_color=0f172a" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadkhose09&layout=compact&hide_border=true&theme=tokyonight&title_color=60a5fa&text_color=e2e8f0&bg_color=0f172a" />
-
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasadkhose09&hide_border=true&theme=tokyonight&ring=60a5fa&fire=f472b6&currStreakLabel=60a5fa&background=0f172a&stroke=1e40af&sideLabels=e2e8f0&dates=94a3b8" />
-
-</div>
-
----
 
 ## 🧠 Problem solving
 
