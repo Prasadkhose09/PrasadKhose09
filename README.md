@@ -111,6 +111,26 @@ React UI ──► REST APIs ──► Score Engine
 [![Code](https://img.shields.io/badge/View_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
 
 </td>
+</td> </tr> <tr> <td width="50%" valign="top">
+📦 Order Management System
+
+Scalable microservice for handling orders, users, and product interactions
+
+Stack: Spring Boot Microservices REST APIs MySQL Docker
+
+Order Service ──► Product Service ──► User Service
+       │                 │                │
+   REST Calls       Feign Client     Service Layer
+       │                 │                │
+   API Gateway     Inter-service     Database (MySQL)
+
+Highlights
+
+Microservice architecture with separate services for orders, users, and products
+Inter-service communication using REST / Feign clients
+Centralized exception handling and robust API responses
+CRUD operations for order lifecycle (create, update, fetch, delete)
+Environment-based configuration and scalable deployment setup
 </tr>
 </table>
 
