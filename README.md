@@ -16,7 +16,7 @@
 [![Portfolio](https://img.shields.io/badge/◈_Portfolio-0f172a?style=for-the-badge&logoColor=white)](https://portfolio-prasad-khose.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-1d4ed8?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/prasad-khose-686b81258)
 [![LeetCode](https://img.shields.io/badge/◈_LeetCode-b45309?style=for-the-badge&logoColor=white)](https://leetcode.com/prasadkhose09)
-[![HackerRank](https://img.shields.io/badge/◈_HackerRank-166534?style=for-the-badge&logoColor=white)](https://www.hackerrank.com/prasadkhose09)
+[![HackerRank](https://img.shields.io/badge/◈_HackerRank-166534?style=for-the-badge&logoColor=white)](https://www.hackerrank.com/profile/prasadkhose512)
 [![Email](https://img.shields.io/badge/◈_Email-991b1b?style=for-the-badge&logoColor=white)](mailto:prasadkhose512@gmail.com)
 
 </div>
@@ -124,7 +124,7 @@ React UI ──► REST APIs ──► Score Engine
 - Consistent habit built alongside project work and academic coursework
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-prasadkhose09-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/prasadkhose09)
-[![HackerRank](https://img.shields.io/badge/HackerRank-prasadkhose09-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prasadkhose09)
+[![HackerRank](https://img.shields.io/badge/HackerRank-prasadkhose09-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/prasadkhose512)
 
 ---
 
