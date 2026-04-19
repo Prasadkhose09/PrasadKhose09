@@ -126,11 +126,13 @@ Order Service ──► Product Service ──► User Service
 
 Highlights
 
-Microservice architecture with separate services for orders, users, and products
-Inter-service communication using REST / Feign clients
-Centralized exception handling and robust API responses
-CRUD operations for order lifecycle (create, update, fetch, delete)
-Environment-based configuration and scalable deployment setup
+- Microservice architecture with separate services for orders, users, and products
+- Inter-service communication using REST / Feign clients
+- Centralized exception handling and robust API responses
+- CRUD operations for order lifecycle (create, update, fetch, delete)
+- Environment-based configuration and scalable deployment setup
+
+[![Code](https://img.shields.io/badge/View_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
 </tr>
 </table>
 
