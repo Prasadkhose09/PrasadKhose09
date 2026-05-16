@@ -47,6 +47,7 @@ public class PrasadKhose extends BackendDeveloper {
 
 <div align="center">
 
+
 | Layer | Technologies |
 |:---:|:---|
 | **Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
