@@ -39,6 +39,7 @@ public class PrasadKhose extends BackendDeveloper {
         return new String[]{ "Clean architecture", "Layered design", "Readable code" };
     }
 }
+
 ```
 
 ---
