@@ -1,194 +1,61 @@
-<div align="center">
+# Prasad Khose
+**Java Backend Developer · Pune, India**
 
+Final-year IT student (CGPA 8.95/10) with 10+ months building production Java backends. I care about clean architecture, real performance numbers, and systems that hold up under load.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=160&section=header&text=Prasad%20Khose&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%E2%80%A2%20Pune%2C%20India&descSize=16&descAlignY=60&descColor=93c5fd" />
-
-</div>
-
-<div align="center">
-
-```
-                      ╔══════════════════════════════════════════════════════════════╗
-                      ║  Building scalable APIs · Designing clean architecture       ║
-                      ║  Solving real-world engineering problems with Java & Spring  ║
-                      ╚══════════════════════════════════════════════════════════════╝
-```
-
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-0f172a?style=for-the-badge&logoColor=white)](https://portfolio-prasad-khose.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-1d4ed8?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/prasad-khose-686b81258)
-[![LeetCode](https://img.shields.io/badge/◈_LeetCode-b45309?style=for-the-badge&logoColor=white)](https://leetcode.com/prasadkhose09)
-[![HackerRank](https://img.shields.io/badge/◈_HackerRank-166534?style=for-the-badge&logoColor=white)](https://www.hackerrank.com/profile/prasadkhose512)
-[![Email](https://img.shields.io/badge/◈_Email-991b1b?style=for-the-badge&logoColor=white)](mailto:prasadkhose512@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-khose-686b81258)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/prasadkhose09)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/prasadkhose512)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-prasad-khose.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prasadkhose512@gmail.com)
 
 ---
 
-## `whoami`
+## Tech Stack
 
-```java
-public class PrasadKhose extends BackendDeveloper {
-
-    private final String role     = "Final Year IT Engineering Student";
-    private final String location = "Pune, India";
-    private final String focus    = "Java · Spring Boot · REST APIs · System Design";
-    private final String streak   = "50+ consecutive days on LeetCode";
-    private final String goal     = "Backend Engineer @ a product-first company";
-
-    @Override
-    public String[] coreValues() {
-        return new String[]{ "Clean architecture", "Layered design", "Readable code" };
-    }
-}
-
-```
+| | |
+|---|---|
+| **Core** | Java · Spring Boot · Hibernate / JPA · MySQL |
+| **Infra** | Apache Kafka · Docker · Redis · GCP |
+| **Auth** | Spring Security · JWT · OAuth2 |
+| **Tooling** | Git · Postman · Swagger · Maven · IntelliJ IDEA |
 
 ---
 
-## ⚡ Tech stack
+## Experience
 
-<div align="center">
+**Java Backend Developer — The DataTech Lab Inc.** `Sep 2025 – Apr 2026`
+- 8+ production REST endpoints · MySQL query tuning cut response times from ~400 ms → ~120 ms
+- 3 Dockerised microservices shipped following SOLID design principles
 
+**App Modernization Intern — Celebal Technologies** `Jun 2025 – Aug 2025`
+- Re-engineered 4 legacy UI modules · ~25% page load improvement via code-splitting
+- 15+ components migrated to modern standards
 
-| Layer | Technologies |
-|:---:|:---|
-| **Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) *(integration level)* |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-
-</div>
+**Flutter Developer Intern — CodeReach Software** `Dec 2024 – Mar 2025`
+- 2 cross-platform features built · 10+ bugs resolved · crash rate reduced by 35–40%
 
 ---
 
-## 🏗️ Projects
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[Event-Driven Order Management System](https://github.com/Prasadkhose09)** — `Spring Boot · Kafka KRaft · Docker · MySQL`
+> ~500 simulated events/sec across 4 Dockerised microservices with zero direct coupling. Independent notification service consuming Kafka events — no synchronous calls between services.
 
-### 🏦 Bank Management System
+**[Banking Management System](https://github.com/Prasadkhose09)** — `Spring Boot · Spring Security · JWT · MySQL`
+> 12 secured endpoints covering full account lifecycle. Hibernate + JPA reduced boilerplate DAO code by ~60% vs raw JDBC.
 
-> Secure banking backend with full transaction lifecycle
-
-**Stack:** `Spring Boot` `Hibernate` `MySQL` `JPA`
-
-```
-Controller ──► Service ──► Repository
-    │              │             │
- Validation   Transactions    MySQL
- @Valid       @Transactional  Entity ORM
-```
-
-**Highlights**
-- Account creation, deposit, withdrawal, transfer & balance APIs
-- Centralized `@ControllerAdvice` exception handling
-- Bean validation at controller level before any business logic
-- Transaction boundaries enforced at service layer
-
-[![Code](https://img.shields.io/badge/View_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ CivicScore — Developed India 2047
-
-> Civic responsibility tracker with dynamic rule-based scoring
-
-**Stack:** `Spring Boot` `JPA` `MySQL` `React`
-
-```
-React UI ──► REST APIs ──► Score Engine
-               │                │
-          8+ Endpoints     Rule Evaluator
-          CRUD + Query     Audit Logger
-```
-
-**Highlights**
-- 8+ REST endpoints for citizen management & violations
-- Rule-based score engine decoupled from citizen data
-- Immutable audit trail — every score change persisted
-- 5+ relational tables with normalized schema design
-
-[![Code](https://img.shields.io/badge/View_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
-
-</td>
-</tr>
-</td> </tr> <tr> <td width="50%" valign="top">
-
-📦 Order Management System
-
-Scalable microservice for handling orders, users, and product interactions
-
-Stack: Spring Boot Microservices REST APIs MySQL Docker
-```
-Order Service ──► Product Service ──► User Service
-       │                 │                │
-   REST Calls       Feign Client     Service Layer
-       │                 │                │
-   API Gateway     Inter-service     Database (MySQL)
-
-```
-
-
-Highlights
-
-- Microservice architecture with separate services for orders, users, and products
-- Inter-service communication using REST / Feign clients
-- Centralized exception handling and robust API responses
-- CRUD operations for order lifecycle (create, update, fetch, delete)
-- Environment-based configuration and scalable deployment setup
-
-[![Code](https://img.shields.io/badge/View_Code-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Prasadkhose09)
-</tr>
-</table>
+**[Mission India 2047 — CivicScore](https://github.com/Prasadkhose09)** — `Spring Boot · React.js · JPA · MySQL`
+> Full-stack civic tracker managing 200+ test citizen records. 10-parameter configurable rule engine · fixed JPA cache bug responsible for 100% of data-sync errors in staging.
 
 ---
 
+## By the Numbers
 
-## 🧠 Problem solving
-
-- **50+ consecutive days** of active LeetCode problem solving — primarily in Java
-- Focus areas: Arrays · Linked Lists · Trees · HashMaps · Sliding Window
-- Consistent habit built alongside project work and academic coursework
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-prasadkhose09-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/prasadkhose09)
-[![HackerRank](https://img.shields.io/badge/HackerRank-prasadkhose09-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/prasadkhose512)
+| 8.95 / 10 | 50+ days | 10+ months | 3× |
+|:---:|:---:|:---:|:---:|
+| CGPA | LeetCode streak | Prod. experience | Hackathon finalist |
 
 ---
 
-## 🗺️ What's next
-
-```
-2025 ─────────────────────────────────────────────────────────► 2026
-
-[✓] Spring Boot + Hibernate          [⟳] Spring Security + JWT auth
-[✓] REST API Design Patterns         [⟳] Hibernate query optimization
-[✓] Layered MVC Architecture         [ ] Redis caching + async queues
-[✓] JPA & Relational Schema Design   [ ] System Design fundamentals
-                                     [ ] Microservices with Spring Cloud
-```
-
----
-
-## 🤝 Let's connect
-
-<div align="center">
-
-| Platform | Link |
-|:---:|:---|
-| 💼 LinkedIn | [prasad-khose-686b81258](https://www.linkedin.com/in/prasad-khose-686b81258) |
-| 🌐 Portfolio | [portfolio-prasad-khose.vercel.app](https://portfolio-prasad-khose.vercel.app/) |
-| 📄 Resume | [View on Google Drive](https://drive.google.com/file/d/1wnA_k_Gyw1lNUssTraxrNnjgCNWcYA_a/view) |
-| 📧 Email | [prasadkhose512@gmail.com](mailto:prasadkhose512@gmail.com) |
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=100&section=footer&text=Open%20to%20backend%20internship%20%26%20full-time%20roles&fontSize=14&fontColor=93c5fd&fontAlignY=65" />
-
-</div>
+*Open to backend internship & full-time roles · prasadkhose512@gmail.com*
